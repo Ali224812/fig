@@ -5,7 +5,10 @@ import static fig.basic.LogInfo.end_track;
 import static fig.basic.LogInfo.error;
 import static fig.basic.LogInfo.logs;
 import static fig.basic.LogInfo.logss;
-import static fig.basic.LogInfo.stderr;
+import static fig.basic.LogInfo.stderr
+	
+	
+	;
 import static fig.basic.LogInfo.stdout;
 
 import java.io.File;
